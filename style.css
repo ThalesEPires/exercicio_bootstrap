@@ -1,0 +1,7 @@
+* , body {
+    background-color: rgb(172, 86, 252);
+}
+
+form > button {
+    margin-top: 8px;
+}
